@@ -1,4 +1,4 @@
-# PisEls-photos
+# PixEls-photos
 
 Created this with HTML, CSS, Vanilla JavaScript and API (Pexels)
 
